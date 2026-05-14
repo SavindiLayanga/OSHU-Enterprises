@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="450" viewBox="0 0 720 450" role="img" aria-label="Drive chain">
+  <defs>
+    <linearGradient id="g" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#44403c"/>
+      <stop offset="100%" style="stop-color:#0c0a09"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="450" fill="url(#g)"/>
+  <ellipse cx="360" cy="210" rx="180" ry="70" fill="none" stroke="#d6d3d1" stroke-width="6" opacity="0.5"/>
+  <ellipse cx="360" cy="210" rx="150" ry="58" fill="none" stroke="#a8a29e" stroke-width="3" opacity="0.4" stroke-dasharray="12 10"/>
+  <text x="360" y="360" text-anchor="middle" fill="#e7e5e4" font-family="Segoe UI,system-ui,sans-serif" font-size="22" font-weight="700">StormChain Kit</text>
+</svg>

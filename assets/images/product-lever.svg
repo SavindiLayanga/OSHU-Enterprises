@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="450" viewBox="0 0 720 450" role="img" aria-label="Levers">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#172554"/>
+      <stop offset="100%" style="stop-color:#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="450" fill="url(#g)"/>
+  <path d="M200 280 L280 160 L320 160 L400 280" fill="none" stroke="#818cf8" stroke-width="5" stroke-linecap="round" opacity="0.75"/>
+  <path d="M440 280 L360 160 L320 160 L240 280" fill="none" stroke="#38bdf8" stroke-width="5" stroke-linecap="round" opacity="0.55"/>
+  <text x="360" y="360" text-anchor="middle" fill="#e2e8f0" font-family="Segoe UI,system-ui,sans-serif" font-size="22" font-weight="700">ProGrip Lever Set</text>
+</svg>

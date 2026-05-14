@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="450" viewBox="0 0 720 450" role="img" aria-label="LED lights">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0c4a6e"/>
+      <stop offset="100%" style="stop-color:#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="450" fill="url(#g)"/>
+  <circle cx="260" cy="210" r="48" fill="#38bdf8" opacity="0.35"/>
+  <circle cx="360" cy="210" r="56" fill="#7dd3fc" opacity="0.45"/>
+  <circle cx="460" cy="210" r="48" fill="#38bdf8" opacity="0.35"/>
+  <text x="360" y="360" text-anchor="middle" fill="#bae6fd" font-family="Segoe UI,system-ui,sans-serif" font-size="22" font-weight="700">NightRun LED Kit</text>
+</svg>

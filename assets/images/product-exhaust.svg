@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="450" viewBox="0 0 720 450" role="img" aria-label="Exhaust">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" style="stop-color:#431407"/>
+      <stop offset="100%" style="stop-color:#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="450" fill="url(#g)"/>
+  <rect x="120" y="190" width="480" height="70" rx="35" fill="none" stroke="#fb923c" stroke-width="3" opacity="0.65"/>
+  <rect x="480" y="175" width="120" height="100" rx="12" fill="#9a3412" opacity="0.4"/>
+  <text x="360" y="360" text-anchor="middle" fill="#fed7aa" font-family="Segoe UI,system-ui,sans-serif" font-size="22" font-weight="700">Phantom Ti Exhaust</text>
+</svg>

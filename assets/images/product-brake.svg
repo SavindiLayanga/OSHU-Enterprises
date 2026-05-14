@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="450" viewBox="0 0 720 450" role="img" aria-label="Brake disc">
+  <defs>
+    <linearGradient id="g" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" style="stop-color:#27272a"/>
+      <stop offset="100%" style="stop-color:#09090b"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="450" fill="url(#g)"/>
+  <circle cx="360" cy="210" r="100" fill="none" stroke="#71717a" stroke-width="4" opacity="0.8"/>
+  <circle cx="360" cy="210" r="36" fill="#3f3f46" opacity="0.9"/>
+  <circle cx="320" cy="170" r="6" fill="#a1a1aa"/><circle cx="400" cy="170" r="6" fill="#a1a1aa"/>
+  <circle cx="320" cy="250" r="6" fill="#a1a1aa"/><circle cx="400" cy="250" r="6" fill="#a1a1aa"/>
+  <text x="360" y="360" text-anchor="middle" fill="#e4e4e7" font-family="Segoe UI,system-ui,sans-serif" font-size="22" font-weight="700">Kinetic Brake Disc</text>
+</svg>
